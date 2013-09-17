@@ -1,0 +1,8 @@
+I wrote this script to automate downloading, processing and importing all Wikipedia articles. 
+
+
+Their methods may have (probably did) changed since I wrote this. It has served as an example
+when I need documentation when working with Bash and as a way to track my progress. This was
+my first script that contained more than three lines!
+
+Maybe it will help someone else who is looking to automate a download and import process?
