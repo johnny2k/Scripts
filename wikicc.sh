@@ -3,7 +3,7 @@
 # Usage: wikicc.sh [DATE] [PASSWORD]
 # Wikimedia content control script. 
 ### DEFAULT VARIABLES and variables necessary for script to work                                  
-### By default this script will not work with a date specified. Wikipedia didn't exist in 1982. (>:^|)
+### By default this script will not work without a date specified. Wikipedia didn't exist in 1982. (>:^|)
 NO_ARGS=0
 OPTIND=1
 E_OPTERROR=85
